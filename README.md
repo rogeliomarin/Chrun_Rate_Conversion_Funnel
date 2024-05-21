@@ -20,13 +20,13 @@ The total churn rate provides an overarching view of customers who abandon their
 
 Segmenting time intervals allows us to analyze churn rates based on customer browsing duration. This segmentation unveils patterns in customer behavior and their propensity to complete a purchase within different time frames.
 
-## Actionable Insights
+## 📌 Actionable Insights
 
 - Identify and address bottlenecks in the conversion funnel to streamline the purchase process.
 - Target specific time segments with high churn rates for tailored interventions or marketing strategies.
 - Utilize insights to optimize product listings, pricing strategies, and promotional offers aimed at reducing churn and boosting conversions in the Male Shoes Category.
 
-## Conclusion
+## 📌 Conclusion
 
 By harnessing data-driven insights and dissecting the conversion funnel alongside churn rates, we empower decision-making processes to enhance customer experience, drive conversions, and ultimately elevate business outcomes in the Male Shoes Category.
 
